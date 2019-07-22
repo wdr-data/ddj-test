@@ -16,7 +16,7 @@ import Accordion from '../components/accordion/accordion.jsx'
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 
-# Hallo DDJ-Learninggroup!
+# Hallo Welt!
 
 ## Super neu tolle Textänderung. Wir haben die Opern-Spielpläne in NRW unter die Lupe genommen. Das Ergebnis: NRW ist ein Opern-Paradies. Aber lebende Komponisten haben kaum eine Chance, auf die Spielpläne zu kommen. Und Komponistinnen gar keine.
 
